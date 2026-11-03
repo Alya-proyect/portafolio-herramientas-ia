@@ -28,7 +28,7 @@ $$
 
 ## 🖼️ Model Card de Hugging Face
 
-![Model Card de Llama 3.2](captura-model-card.png)
+![Model Card de Llama 3.2](Screenshot 2026-11-02 195055.png)
 
 ## 🔀 Cómo funciona
 
