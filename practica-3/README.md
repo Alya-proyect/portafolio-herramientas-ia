@@ -29,3 +29,13 @@ $$
 ## 🖼️ Model Card de Hugging Face
 
 ![Model Card de Llama 3.2](captura-model-card.png)
+
+## 🔀 Cómo funciona
+
+```mermaid
+graph TD
+    A([Usuario ingresa prompt]) -->|Texto en lenguaje natural| B[Llama-3.2-1B-Instruct]
+    B --> C{¿Generar respuesta?}
+    C -->|Sí| D([Modelo escribe la respuesta])
+```
+
