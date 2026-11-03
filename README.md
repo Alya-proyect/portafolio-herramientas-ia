@@ -11,7 +11,7 @@ Estudio Ingeniería en IA y me interesa el **procesamiento de lenguaje natural**
 ## Mi proyecto
 [Repositorio del equipo 2 - Tutor para estudiantes](https://github.com/Boa2671/in1050-2-tutor)
 
-Cuenta de GitHub: @Alya-proyect
+[Cuenta de GitHub: @](https://github.com/Alya-proyect)
 
 
 
