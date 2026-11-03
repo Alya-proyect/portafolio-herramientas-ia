@@ -1,6 +1,5 @@
 # Comandos que aprendí
 
-| Comando | Para qué sirve |
 | Comando | Descripción | Ejemplo de uso |
 | :--- | :--- | :--- |
 | `cd` | Cambia el directorio actual de la terminal. | `cd ~/portafolio-herramientas-ia` |
